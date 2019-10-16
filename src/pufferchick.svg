@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-  <symbol viewBox="0 0 24 24" id="icon-pufferchick">
-    <path d="M210 550 c0 -20 5 -30 15 -30 8 0 15 -7 15 -15 0 -8 7 -15 15 -15 8
+  <symbol viewBox="0 0 500 600" id="icon-pufferchick">
+    <path fill="#fff" d="M200 500 c0 -20 5 -30 15 -30 8 0 15 -7 15 -15 0 -8 7 -15 15 -15 8
 0 15 -7 15 -15 0 -8 -7 -15 -15 -15 -8 0 -15 7 -15 15 0 8 -7 15 -15 15 -8 0
 -15 -7 -15 -15 0 -8 -7 -15 -15 -15 -10 0 -15 -10 -15 -30 0 -29 -2 -30 -45
 -30 -33 0 -45 4 -45 15 0 10 -10 15 -30 15 -20 0 -30 -5 -30 -15 0 -8 -7 -15
